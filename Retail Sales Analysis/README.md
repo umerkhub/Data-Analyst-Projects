@@ -72,9 +72,9 @@ Built in **Power BI** to provide insights into sales and customer behavior.
 - **Discount Impact:** Relationship between discount and sales  
 
 ### 📷 Dashboard Previews:
-![Dashboard Overview](images/dashboard_overview.png)  
-![Category Analysis](images/category_analysis.png)  
-![Regional Sales](images/regional_sales.png)  
+![Dashboard Overview]([images/dashboard_overview.png](https://github.com/umerkhub/Data-Analyst-Projects/blob/main/Retail%20Sales%20Analysis/images/dashboard-overview.png))  
+![Total Revenue]([images/category_analysis.png](https://github.com/umerkhub/Data-Analyst-Projects/blob/main/Retail%20Sales%20Analysis/images/Total%20Revenue%20by%20Month%20and%20Quarter.png))  
+![Return Rate]([images/regional_sales.png](https://github.com/umerkhub/Data-Analyst-Projects/blob/main/Retail%20Sales%20Analysis/images/Return%20Rate%20by%20Month.png))  
 
 📊 Final dashboard: `powerbi/retail_sales_dashboard.pbix`  
 
