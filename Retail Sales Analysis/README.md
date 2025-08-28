@@ -25,8 +25,8 @@ It showcases my skills in:
     │
     │── images/
     │   ├── dashboard_overview.png              # Dashboard overview (screenshot)
-    │   ├── category_analysis.png               # Sales by category
-    │   ├── regional_sales.png                  # Sales by region
+    │   ├── Total Revenue by Month.png          # Revenue by Month
+    │   ├── Return Rate by Month.png            # Returns based on Month
     │
     │── README.md                               # Project overview
 
